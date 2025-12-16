@@ -112,15 +112,17 @@ Generated: Mon Dec 16 10:00:00 IST 2025
 ================================================
 FILE: src/main.py
 ================================================
-```python
 def main():
     print("Hello AI")
 ```
-...
-```
-
 ---
 
 _Designed for Local AI Development workflows._
+
+## Connect with Me
+- **Twitter/X**: [@justmalhar](https://twitter.com/justmalhar) 🛠
+- **LinkedIn**: [Malhar Ujawane](https://linkedin.com/in/justmalhar) 💻
+- **GitHub**: [justmalhar](https://github.com/justmalhar) 💻
+
 
 License: [MIT](LICENSE)
