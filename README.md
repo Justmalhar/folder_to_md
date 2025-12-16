@@ -122,3 +122,5 @@ def main():
 ---
 
 _Designed for Local AI Development workflows._
+
+License: [MIT](LICENSE)
